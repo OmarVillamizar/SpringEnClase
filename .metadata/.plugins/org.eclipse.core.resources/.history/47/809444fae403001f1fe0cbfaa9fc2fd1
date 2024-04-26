@@ -1,0 +1,2 @@
+spring.application.name=testweb
+server.port = 8081

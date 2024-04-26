@@ -1,0 +1,2 @@
+spring.application.name=testweb
+localhost = 8081
